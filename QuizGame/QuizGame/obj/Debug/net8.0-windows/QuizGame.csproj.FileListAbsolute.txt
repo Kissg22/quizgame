@@ -1,0 +1,67 @@
+C:\Users\kapos\OneDrive\Asztali gép\hg\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.exe
+C:\Users\kapos\OneDrive\Asztali gép\hg\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.deps.json
+C:\Users\kapos\OneDrive\Asztali gép\hg\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.runtimeconfig.json
+C:\Users\kapos\OneDrive\Asztali gép\hg\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.dll
+C:\Users\kapos\OneDrive\Asztali gép\hg\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.pdb
+C:\Users\kapos\OneDrive\Asztali gép\hg\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.startLabel.resources
+C:\Users\kapos\OneDrive\Asztali gép\hg\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.csproj.GenerateResource.cache
+C:\Users\kapos\OneDrive\Asztali gép\hg\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapos\OneDrive\Asztali gép\hg\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.AssemblyInfoInputs.cache
+C:\Users\kapos\OneDrive\Asztali gép\hg\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.AssemblyInfo.cs
+C:\Users\kapos\OneDrive\Asztali gép\hg\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\kapos\OneDrive\Asztali gép\hg\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.dll
+C:\Users\kapos\OneDrive\Asztali gép\hg\QuizGame\QuizGame\obj\Debug\net8.0-windows\refint\QuizGame.dll
+C:\Users\kapos\OneDrive\Asztali gép\hg\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.pdb
+C:\Users\kapos\OneDrive\Asztali gép\hg\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.genruntimeconfig.cache
+C:\Users\kapos\OneDrive\Asztali gép\hg\QuizGame\QuizGame\obj\Debug\net8.0-windows\ref\QuizGame.dll
+C:\Users\kapos\OneDrive\Asztali gép\KvizProjekt\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.exe
+C:\Users\kapos\OneDrive\Asztali gép\KvizProjekt\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.deps.json
+C:\Users\kapos\OneDrive\Asztali gép\KvizProjekt\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.runtimeconfig.json
+C:\Users\kapos\OneDrive\Asztali gép\KvizProjekt\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.dll
+C:\Users\kapos\OneDrive\Asztali gép\KvizProjekt\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.pdb
+C:\Users\kapos\OneDrive\Asztali gép\KvizProjekt\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.startLabel.resources
+C:\Users\kapos\OneDrive\Asztali gép\KvizProjekt\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.csproj.GenerateResource.cache
+C:\Users\kapos\OneDrive\Asztali gép\KvizProjekt\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapos\OneDrive\Asztali gép\KvizProjekt\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.AssemblyInfoInputs.cache
+C:\Users\kapos\OneDrive\Asztali gép\KvizProjekt\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.AssemblyInfo.cs
+C:\Users\kapos\OneDrive\Asztali gép\KvizProjekt\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\kapos\OneDrive\Asztali gép\KvizProjekt\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.dll
+C:\Users\kapos\OneDrive\Asztali gép\KvizProjekt\QuizGame\QuizGame\obj\Debug\net8.0-windows\refint\QuizGame.dll
+C:\Users\kapos\OneDrive\Asztali gép\KvizProjekt\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.pdb
+C:\Users\kapos\OneDrive\Asztali gép\KvizProjekt\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.genruntimeconfig.cache
+C:\Users\kapos\OneDrive\Asztali gép\KvizProjekt\QuizGame\QuizGame\obj\Debug\net8.0-windows\ref\QuizGame.dll
+C:\Users\kapos\OneDrive\Asztali gép\KvizProjekt\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.Properties.Resources.resources
+C:\Users\user\Desktop\quizgame-main\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.exe
+C:\Users\user\Desktop\quizgame-main\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.deps.json
+C:\Users\user\Desktop\quizgame-main\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.runtimeconfig.json
+C:\Users\user\Desktop\quizgame-main\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.dll
+C:\Users\user\Desktop\quizgame-main\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.pdb
+C:\Users\user\Desktop\quizgame-main\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.startLabel.resources
+C:\Users\user\Desktop\quizgame-main\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.Properties.Resources.resources
+C:\Users\user\Desktop\quizgame-main\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\quizgame-main\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\quizgame-main\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\quizgame-main\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.AssemblyInfo.cs
+C:\Users\user\Desktop\quizgame-main\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\quizgame-main\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.dll
+C:\Users\user\Desktop\quizgame-main\QuizGame\QuizGame\obj\Debug\net8.0-windows\refint\QuizGame.dll
+C:\Users\user\Desktop\quizgame-main\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.pdb
+C:\Users\user\Desktop\quizgame-main\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.genruntimeconfig.cache
+C:\Users\user\Desktop\quizgame-main\QuizGame\QuizGame\obj\Debug\net8.0-windows\ref\QuizGame.dll
+C:\Users\user\Desktop\KissG bandája\KissGBandaja\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.exe
+C:\Users\user\Desktop\KissG bandája\KissGBandaja\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.deps.json
+C:\Users\user\Desktop\KissG bandája\KissGBandaja\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.runtimeconfig.json
+C:\Users\user\Desktop\KissG bandája\KissGBandaja\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.dll
+C:\Users\user\Desktop\KissG bandája\KissGBandaja\QuizGame\QuizGame\bin\Debug\net8.0-windows\QuizGame.pdb
+C:\Users\user\Desktop\KissG bandája\KissGBandaja\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.startLabel.resources
+C:\Users\user\Desktop\KissG bandája\KissGBandaja\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.Properties.Resources.resources
+C:\Users\user\Desktop\KissG bandája\KissGBandaja\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\KissG bandája\KissGBandaja\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\KissG bandája\KissGBandaja\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\KissG bandája\KissGBandaja\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.AssemblyInfo.cs
+C:\Users\user\Desktop\KissG bandája\KissGBandaja\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\KissG bandája\KissGBandaja\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.dll
+C:\Users\user\Desktop\KissG bandája\KissGBandaja\QuizGame\QuizGame\obj\Debug\net8.0-windows\refint\QuizGame.dll
+C:\Users\user\Desktop\KissG bandája\KissGBandaja\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.pdb
+C:\Users\user\Desktop\KissG bandája\KissGBandaja\QuizGame\QuizGame\obj\Debug\net8.0-windows\QuizGame.genruntimeconfig.cache
+C:\Users\user\Desktop\KissG bandája\KissGBandaja\QuizGame\QuizGame\obj\Debug\net8.0-windows\ref\QuizGame.dll
